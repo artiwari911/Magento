@@ -1,0 +1,12 @@
+<div class="footer-title">
+							<h2>MY ACCOUNT</h2>
+						</div>
+						<div class="content-block-footer">
+							<ul>
+								<li><a href="#"><span class="icon-double-angle-right">&nbsp;</span>Sitemap</a></li>
+								<li><a href="#"><span class="icon-double-angle-right">&nbsp;</span>Privacy Policy</a></li>
+								<li><a href="#"><span class="icon-double-angle-right">&nbsp;</span>Your Account</a></li>
+								<li><a href="#"><span class="icon-double-angle-right">&nbsp;</span>Advanced Search</a></li>
+								<li><a href="#"><span class="icon-double-angle-right">&nbsp;</span>Contact Us</a></li>
+							</ul>
+						</div>

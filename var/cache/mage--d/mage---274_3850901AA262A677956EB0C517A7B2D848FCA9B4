@@ -1,0 +1,26 @@
+<div class="block block-brand">
+			<div class="block-title">
+				<strong>
+					<span>Our Brand</span>
+				</strong>
+				<a class="view-all-brand" href="#" title="View All">View All</a>
+			</div>
+			
+			<div class="block-content">
+				<div class="brand-wrapper">
+					<ul>
+						<li><a href="#" title="Brand"><img src="http://127.0.0.1/mg5/media/wysiwyg/brand-image/brand-logo-1.png" alt="Brand Logo" /></a></li>
+						<li><a href="#" title="Brand"><img src="http://127.0.0.1/mg5/media/wysiwyg/brand-image/brand-logo-2.png" alt="Brand Logo" /></a></li>
+
+						<li><a href="#" title="Brand"><img src="http://127.0.0.1/mg5/media/wysiwyg/brand-image/brand-logo-3.png" alt="Brand Logo" /></a></li>
+						<li><a href="#" title="Brand"><img src="http://127.0.0.1/mg5/media/wysiwyg/brand-image/brand-logo-4.png" alt="Brand Logo" /></a></li>
+
+						<li><a href="#" title="Brand"><img src="http://127.0.0.1/mg5/media/wysiwyg/brand-image/brand-logo-1.png" alt="Brand Logo" /></a></li>
+						<li><a href="#" title="Brand"><img src="http://127.0.0.1/mg5/media/wysiwyg/brand-image/brand-logo-2.png" alt="Brand Logo" /></a></li>
+
+						<li><a href="#" title="Brand"><img src="http://127.0.0.1/mg5/media/wysiwyg/brand-image/brand-logo-3.png" alt="Brand Logo" /></a></li>
+						<li><a href="#" title="Brand"><img src="http://127.0.0.1/mg5/media/wysiwyg/brand-image/brand-logo-4.png" alt="Brand Logo" /></a></li>
+					</ul>
+				</div>
+			</div>
+		</div>

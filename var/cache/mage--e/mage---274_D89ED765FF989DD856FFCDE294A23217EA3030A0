@@ -1,0 +1,17 @@
+<div class="block-map">
+<div class="block-content">
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+<div id="map">&nbsp;</div>
+<script type="text/javascript">// <![CDATA[
+ 
+      var myOptions = {
+         zoom: 15,
+         center: new google.maps.LatLng(48.89364,2.33739), 	
+         mapTypeId: google.maps.MapTypeId.ROADMAP
+      };
+
+      var map = new google.maps.Map(document.getElementById("map"), myOptions);
+// ]]></script>
+</div>
+</div>
+<div class="contact-des">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla augue nec est tristique auctor. Donec non est at libero vulputate rutrum. Morbi ornare lectus quis justo gravida semper. Nulla tellus mi, vulputate adipiscing cursus eu, suscipit id nulla. Donec a neque libero</div>

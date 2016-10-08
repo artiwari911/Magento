@@ -1,0 +1,8 @@
+<ul class="dropdown-link-account">
+<li><a title="My Orders" href="http://127.0.0.1/mg5/sales/order/history/?___SID=U">My Orders</a></li>
+<li><a title="Account Information" href="http://127.0.0.1/mg5/customer/account/edit/?___SID=U">Account Information</a></li>
+<li><a title="Address Book" href="http://127.0.0.1/mg5/customer/address/?___SID=U">Address Book</a></li>
+<li><a title="My Tags" href="http://127.0.0.1/mg5/tag/customer/?___SID=U">My Tags</a></li>
+<li><a title="Billing Agreements" href="http://127.0.0.1/mg5/sales/billing_agreement/?___SID=U">Billing Agreements</a></li>
+<li><a title="Recurring Profiles" href="http://127.0.0.1/mg5/sales/recurring_profile/?___SID=U">Recurring Profiles</a></li>
+</ul>

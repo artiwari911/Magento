@@ -1,0 +1,231 @@
+<div class="row box-1-about">
+
+<div class="col-md-9 welcome-about-us">
+<div class="title-about-us">
+<h2>Welcome To Shop</h2>
+</div>
+<div class="content-about-us">
+<div class="image-about-us"><img src="http://127.0.0.1/mg5/media/wysiwyg/about-us.png" alt="About Us" /></div>
+<div class="des-about-us">YR Shop has to provide advanced technology with affordable prize.
+<br>
+YR Shop has wide range of mobile phones, phone accessory and electronics product to fulfill the need of every one.
+
+<br>
+We are committed towards manufacturing personalized user friendly phones. Our value added feature ensures the personality of the phone matches the taste of the customer.
+
+<br>
+YR Shop ensure the quality of product at every stage of manufacturing process.
+
+<br>
+Our main focus is to provide product with best design, supreme technology and quality to all our esteem customer.</div>
+</div>
+</div>
+<div class="col-md-3 why-choose-us">
+<div class="title-about-us">
+<h2>Why Choose Us</h2>
+</div>
+<div class="content-why">
+<ul class="why-list">
+<li><a title="Shipping &amp; Returns" href="#">Shipping &amp; Returns</a></li>
+<li><a title="Secure Shopping" href="#">Secure Shopping</a></li>
+<li><a title="International Shipping" href="#">International Shipping</a></li>
+<li><a title="Affiliates" href="#">Affiliates</a></li>
+<li><a title="Group Sales" href="#">Group Sales</a></li>
+</ul>
+</div>
+</div>
+<div class="col-md-12 our-member">
+<div class="title-about-us">
+<h2>Our Member</h2>
+</div>
+<div class="short-des">Consectetur adipiscing elit. Donec pellentesque venenatis elit, quis aliquet mauris malesuada vel. Donec vitae libero dolor, eget dapibus justo.<br />Aenean facilisis aliquet feugiat. Suspendisse lacinia congue est ac semper. Nulla ut elit magna, vitae volutpat magna.</div>
+<div class="overflow-owl-slider">
+<div class="wrapper-owl-slider">
+<div class="sm_imageslider slider-ourmember">
+<div class="item respl-item">
+<div class="item-inner">
+<div class="w-image-box">
+<div class="item-image"><a title="Jennifer lawrence" href="#"><img src="http://127.0.0.1/mg5/media/wysiwyg/cl-image-1.png" alt="Jennifer lawrence" /></a></div>
+<a class="cl-nw cl-facebook" title="Facebook" href="#">Facebook</a> <a class="cl-nw cl-flickr" title="Flickr" href="#">Flickr</a> <a class="cl-nw cl-twitter" title="Twitter" href="#">Twitter</a></div>
+<div class="info-member">
+<h2 class="cl-name"><a title="Jennifer lawrence" href="#">Jennifer lawrence</a></h2>
+<p class="cl-job">Tech Leader</p>
+<p class="cl-des">Pellentesque dictumst nibh nulla dui at urna leo wisi dui nibh scelerisque</p>
+</div>
+</div>
+</div>
+<div class="item respl-item">
+<div class="item-inner">
+<div class="w-image-box">
+<div class="item-image"><a title="Jennifer lawrence" href="#"><img src="http://127.0.0.1/mg5/media/wysiwyg/cl-image-2.png" alt="Jennifer lawrence" /></a></div>
+<a class="cl-nw cl-facebook" title="Facebook" href="#">Facebook</a> <a class="cl-nw cl-flickr" title="Flickr" href="#">Flickr</a> <a class="cl-nw cl-twitter" title="Twitter" href="#">Twitter</a></div>
+<div class="info-member">
+<h2 class="cl-name"><a title="Jennifer lawrence" href="#">Jennifer lawrence</a></h2>
+<p class="cl-job">Manager</p>
+<p class="cl-des">Pellentesque dictumst nibh nulla dui at urna leo wisi dui nibh scelerisque</p>
+</div>
+</div>
+</div>
+<div class="item respl-item">
+<div class="item-inner">
+<div class="w-image-box">
+<div class="item-image"><a title="Jennifer lawrence" href="#"><img src="http://127.0.0.1/mg5/media/wysiwyg/cl-image-3.png" alt="Jennifer lawrence" /></a></div>
+<a class="cl-nw cl-facebook" title="Facebook" href="#">Facebook</a> <a class="cl-nw cl-flickr" title="Flickr" href="#">Flickr</a> <a class="cl-nw cl-twitter" title="Twitter" href="#">Twitter</a></div>
+<div class="info-member">
+<h2 class="cl-name"><a title="Jennifer lawrence" href="#">Jennifer lawrence</a></h2>
+<p class="cl-job">Art Director</p>
+<p class="cl-des">Pellentesque dictumst nibh nulla dui at urna leo wisi dui nibh scelerisque</p>
+</div>
+</div>
+</div>
+<div class="item respl-item">
+<div class="item-inner">
+<div class="w-image-box">
+<div class="item-image"><a title="Jennifer lawrence" href="#"><img src="http://127.0.0.1/mg5/media/wysiwyg/cl-image-4.png" alt="Jennifer lawrence" /></a></div>
+<a class="cl-nw cl-facebook" title="Facebook" href="#">Facebook</a> <a class="cl-nw cl-flickr" title="Flickr" href="#">Flickr</a> <a class="cl-nw cl-twitter" title="Twitter" href="#">Twitter</a></div>
+<div class="info-member">
+<h2 class="cl-name"><a title="Jennifer lawrence" href="#">Jennifer lawrence</a></h2>
+<p class="cl-job">Design Leader</p>
+<p class="cl-des">Pellentesque dictumst nibh nulla dui at urna leo wisi dui nibh scelerisque</p>
+</div>
+</div>
+</div>
+<div class="item respl-item">
+<div class="item-inner">
+<div class="w-image-box">
+<div class="item-image"><a title="Jennifer lawrence" href="#"><img src="http://127.0.0.1/mg5/media/wysiwyg/cl-image-1.png" alt="Jennifer lawrence" /></a></div>
+<a class="cl-nw cl-facebook" title="Facebook" href="#">Facebook</a> <a class="cl-nw cl-flickr" title="Flickr" href="#">Flickr</a> <a class="cl-nw cl-twitter" title="Twitter" href="#">Twitter</a></div>
+<div class="info-member">
+<h2 class="cl-name"><a title="Jennifer lawrence" href="#">Jennifer lawrence</a></h2>
+<p class="cl-job">Tech Leader</p>
+<p class="cl-des">Pellentesque dictumst nibh nulla dui at urna leo wisi dui nibh scelerisque</p>
+</div>
+</div>
+</div>
+<div class="item respl-item">
+<div class="item-inner">
+<div class="w-image-box">
+<div class="item-image"><a title="Jennifer lawrence" href="#"><img src="http://127.0.0.1/mg5/media/wysiwyg/cl-image-2.png" alt="Jennifer lawrence" /></a></div>
+<a class="cl-nw cl-facebook" title="Facebook" href="#">Facebook</a> <a class="cl-nw cl-flickr" title="Flickr" href="#">Flickr</a> <a class="cl-nw cl-twitter" title="Twitter" href="#">Twitter</a></div>
+<div class="info-member">
+<h2 class="cl-name"><a title="Jennifer lawrence" href="#">Jennifer lawrence</a></h2>
+<p class="cl-job">Manager</p>
+<p class="cl-des">Pellentesque dictumst nibh nulla dui at urna leo wisi dui nibh scelerisque</p>
+</div>
+</div>
+</div>
+<div class="item respl-item">
+<div class="item-inner">
+<div class="w-image-box">
+<div class="item-image"><a title="Jennifer lawrence" href="#"><img src="http://127.0.0.1/mg5/media/wysiwyg/cl-image-3.png" alt="Jennifer lawrence" /></a></div>
+<a class="cl-nw cl-facebook" title="Facebook" href="#">Facebook</a> <a class="cl-nw cl-flickr" title="Flickr" href="#">Flickr</a> <a class="cl-nw cl-twitter" title="Twitter" href="#">Twitter</a></div>
+<div class="info-member">
+<h2 class="cl-name"><a title="Jennifer lawrence" href="#">Jennifer lawrence</a></h2>
+<p class="cl-job">Art Director</p>
+<p class="cl-des">Pellentesque dictumst nibh nulla dui at urna leo wisi dui nibh scelerisque</p>
+</div>
+</div>
+</div>
+<div class="item respl-item">
+<div class="item-inner">
+<div class="w-image-box">
+<div class="item-image"><a title="Jennifer lawrence" href="#"><img src="http://127.0.0.1/mg5/media/wysiwyg/cl-image-4.png" alt="Jennifer lawrence" /></a></div>
+<a class="cl-nw cl-facebook" title="Facebook" href="#">Facebook</a> <a class="cl-nw cl-flickr" title="Flickr" href="#">Flickr</a> <a class="cl-nw cl-twitter" title="Twitter" href="#">Twitter</a></div>
+<div class="info-member">
+<h2 class="cl-name"><a title="Jennifer lawrence" href="#">Jennifer lawrence</a></h2>
+<p class="cl-job">Design Leader</p>
+<p class="cl-des">Pellentesque dictumst nibh nulla dui at urna leo wisi dui nibh scelerisque</p>
+</div>
+</div>
+</div>
+<div class="item respl-item">
+<div class="item-inner">
+<div class="w-image-box">
+<div class="item-image"><a title="Jennifer lawrence" href="#"><img src="http://127.0.0.1/mg5/media/wysiwyg/cl-image-1.png" alt="Jennifer lawrence" /></a></div>
+<a class="cl-nw cl-facebook" title="Facebook" href="#">Facebook</a> <a class="cl-nw cl-flickr" title="Flickr" href="#">Flickr</a> <a class="cl-nw cl-twitter" title="Twitter" href="#">Twitter</a></div>
+<div class="info-member">
+<h2 class="cl-name"><a title="Jennifer lawrence" href="#">Jennifer lawrence</a></h2>
+<p class="cl-job">Tech Leader</p>
+<p class="cl-des">Pellentesque dictumst nibh nulla dui at urna leo wisi dui nibh scelerisque</p>
+</div>
+</div>
+</div>
+<div class="item respl-item">
+<div class="item-inner">
+<div class="w-image-box">
+<div class="item-image"><a title="Jennifer lawrence" href="#"><img src="http://127.0.0.1/mg5/media/wysiwyg/cl-image-4.png" alt="Jennifer lawrence" /></a></div>
+<a class="cl-nw cl-facebook" title="Facebook" href="#">Facebook</a> <a class="cl-nw cl-flickr" title="Flickr" href="#">Flickr</a> <a class="cl-nw cl-twitter" title="Twitter" href="#">Twitter</a></div>
+<div class="info-member">
+<h2 class="cl-name"><a title="Jennifer lawrence" href="#">Jennifer lawrence</a></h2>
+<p class="cl-job">Design Leader</p>
+<p class="cl-des">Pellentesque dictumst nibh nulla dui at urna leo wisi dui nibh scelerisque</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">// <![CDATA[
+			jQuery(document).ready(function($) {
+				var owl = $(".slider-ourmember");
+				owl.owlCarousel({
+					itemsCustom : [
+					[0, 1],
+					[320, 2],
+					[480, 2],
+					[768, 3],
+					[992, 4],
+					[1200, 4]
+					],
+					autoPlay:true,
+					pagination:true
+				}); 
+			});
+// ]]></script>
+</div>
+<div class="col-md-12 happy-about-us">
+<div id="slider-happy-about-us" class="happy-ab carousel slide" data-ride="carousel">
+<div class="title-happy-about">
+<h2>Happy customer says</h2>
+</div>
+<div class="sm_imageslider slider-happy-client">
+<div class="item">
+<div class="ct-why">
+<div class="client-say">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In congue, justo non cursus adipiscing, dui nibh scelerisque justo, quis pretium turpis neque eget nulla. Curabitur dictum consectetur metus nec dignissim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In congue, justo non cursus adipiscing, dui nibh scelerisque justo non cursus adipiscing, dui nibh scelerisque justo, quis pretium turpis.</div>
+<p class="client-info-about"><span class="name">- Mama Duo - </span>Social Media Strategist</p>
+</div>
+</div>
+<div class="item">
+<div class="ct-why">
+<div class="client-say">In congue, justo non cursus adipiscing, dui nibh scelerisque justo, quis pretium turpis neque eget nulla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur dictum consectetur metus nec dignissim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In congue, justo non cursus adipiscing, dui nibh scelerisque justo non cursus adipiscing, dui nibh scelerisque justo, quis pretium turpis.</div>
+<p class="client-info-about"><span class="name">- Join Doe - </span>Social Media Strategist</p>
+</div>
+</div>
+<div class="item">
+<div class="ct-why">
+<div class="client-say">Dui nibh scelerisque justo, in congue, justo non cursus adipiscing, quis pretium turpis neque eget nulla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur dictum consectetur metus nec dignissim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In congue, justo non cursus adipiscing, dui nibh scelerisque justo non cursus adipiscing, dui nibh scelerisque justo, quis pretium turpis.</div>
+<p class="client-info-about"><span class="name">- Join Doe - </span>Social Media Strategist</p>
+</div>
+</div>
+<div class="item">
+<div class="ct-why">
+<div class="client-say">In congue, justo non cursus adipiscing, dui nibh scelerisque justo, quis pretium turpis neque eget nulla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur dictum consectetur metus nec dignissim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In congue, justo non cursus adipiscing, dui nibh scelerisque justo non cursus adipiscing, dui nibh scelerisque justo, quis pretium turpis.</div>
+<p class="client-info-about"><span class="name">- Join Doe - </span>Social Media Strategist</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">// <![CDATA[
+				jQuery(document).ready(function($) {
+					$(".slider-happy-client").owlCarousel({
+						navigation : true, // Show next and prev buttons
+						pagination:false,
+						slideSpeed : 300,
+						paginationSpeed : 400,
+						autoPlay:true,
+						singleItem:true
+					}); 
+				});
+// ]]></script>
+</div>
+</div>
+</div>

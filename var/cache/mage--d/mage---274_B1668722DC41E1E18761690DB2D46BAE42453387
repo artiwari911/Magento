@@ -1,0 +1,13 @@
+<ul class="list-services">
+	<li class="item-service col-lg-4 col-md-4 col-sm-4">
+		<a href="#" title="Free Shipping"><img src="http://127.0.0.1/mg5/media/wysiwyg/static-image-home/free-shipping.png" alt="Free Shipping" /></a>
+	</li>
+	
+	<li class="item-service col-lg-4 col-md-4 col-sm-4">
+		<a href="#" title="Guaranteed"><img src="http://127.0.0.1/mg5/media/wysiwyg/static-image-home/guaranteed.png" alt="Guaranteed" /></a>
+	</li>
+	
+	<li class="item-service col-lg-4 col-md-4 col-sm-4">
+		<a href="#" title="Deal"><img src="http://127.0.0.1/mg5/media/wysiwyg/static-image-home/deal.png" alt="Deal" /></a>
+	</li>
+</ul>

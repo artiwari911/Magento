@@ -1,0 +1,17 @@
+<div class="footer-title">
+<h2>MY ACCOUNT</h2>
+</div>
+<div class="content-block-footer">
+<ul>
+<li><span class="sp-ic icon-home" style="font-size: 16px; position: relative; top: 1px;">&nbsp;</span>Surat, Gujrat India.</li>
+<li style="margin-top: -4px;"><span class="sp-ic icon-mobile-phone" style="font-size: 22px; position: relative; top: 4px;">&nbsp;</span>Telephone: <a title="Call:(+91) 9898762085" href="tel:+9898762085">(+91) 9898762085</a></li>
+<li><span class="sp-ic icon-envelope" style="font-size: 13px; position: relative;">&nbsp;</span>E-mail: <a title="support@yrshop.com" href="mailto:support@yrshop.com">support@yrshop.com</a></li>
+</ul>
+<ul class="payment-method">
+<li><a title="Payment Method" href="#"><img src="http://127.0.0.1/mg5/media/wysiwyg/payment/payment-1.png" alt="Payment" /></a></li>
+<li><a title="Payment Method" href="#"><img src="http://127.0.0.1/mg5/media/wysiwyg/payment/payment-2.png" alt="Payment" /></a></li>
+<li><a title="Payment Method" href="#"><img src="http://127.0.0.1/mg5/media/wysiwyg/payment/payment-3.png" alt="Payment" /></a></li>
+<li><a title="Payment Method" href="#"><img src="http://127.0.0.1/mg5/media/wysiwyg/payment/payment-4.png" alt="Payment" /></a></li>
+<li><a title="Payment Method" href="#"><img src="http://127.0.0.1/mg5/media/wysiwyg/payment/payment-5.png" alt="Payment" /></a></li>
+</ul>
+</div>

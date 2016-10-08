@@ -1,0 +1,2 @@
+2016-10-08T08:57:30+00:00 ERR (3): Notice: Undefined index: groups  in C:\xampp\htdocs\mg5\app\code\core\Mage\Adminhtml\Model\System\Config\Backend\File.php on line 51
+2016-10-08T09:00:09+00:00 ERR (3): Notice: Undefined index: groups  in C:\xampp\htdocs\mg5\app\code\core\Mage\Adminhtml\Model\System\Config\Backend\File.php on line 51

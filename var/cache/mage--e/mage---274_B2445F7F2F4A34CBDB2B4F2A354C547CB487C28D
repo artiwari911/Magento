@@ -1,0 +1,12 @@
+<div class="footer-title">
+							<h2>INFOMATION</h2>
+						</div>
+						<div class="content-block-footer">
+							<ul>
+								<li><a href="#"><span class="icon-double-angle-right">&nbsp;</span>My Account</a></li>
+								<li><a href="#"><span class="icon-double-angle-right">&nbsp;</span>Order History</a></li>
+								<li><a href="#"><span class="icon-double-angle-right">&nbsp;</span>Returns</a></li>
+								<li><a href="#"><span class="icon-double-angle-right">&nbsp;</span>Specials</a></li>
+								<li><a href="#"><span class="icon-double-angle-right">&nbsp;</span>Site Map</a></li>
+							</ul>
+						</div>

@@ -1,0 +1,139 @@
+<div class="yt-footer-wrap">
+	<div class="footer-top">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-3 col-md-3">
+					<div class="socials-wrap">
+	<ul>
+					<li><a class="icon-facebook show_facebook" title="Facebook" href="https://www.facebook.com/Matrixx.TheWorldofelectronics/" target="_blank" data-icon="f"><span>Facebook</span></a></li>
+							<li><a class="icon-twitter show_twitter" title="Twitter" href="#" target="_blank" data-icon="l"><span>Twitter</span></a></li>
+							<li><a class="icon-google-plus show_google" title="Google+" href="#" target="_blank" data-icon="g"><span>Google+</span></a></li>
+				
+					<li><a class="icon-pinterest show_pinterest" title="Pinterest" href="#" target="_blank" data-icon="&"><span>Pinterest</span></a></li>
+			
+		
+					<li><a class="icon-linkedin show_linkedin" title="Linkedin" href="#" target="_blank" data-icon="i"><span>Linkedin</span></a></li>
+		
+	</ul>
+</div>    
+			
+				</div>
+				<div class="col-lg-9 col-md-9">
+					<div class="block block-subscribe-footer">
+	<div class="title-block">
+		<h2>SIGN UP FOR OUR NEWSLETTER </h2>
+		<p>Duis at ante non massa consectetur iaculis id non tellus</p>
+	</div>
+
+	<div class="block-content">
+		<form action="http://127.0.0.1/mg5/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
+
+			<div class="input-box">
+				<input type="text" name="email" id="newsletter"
+					title="Sign up for our newsletter"
+					class="input-text required-entry validate-email"
+					value="Enter your email..."
+					onblur="if(this.value=='') this.value='Enter your email...';"
+					onfocus="if(this.value=='Enter your email...') this.value='';" />
+			</div>
+			<div class="actions">
+				<button type="submit" title="Subscribe"
+					class="button">
+					<span><span>Subscribe </span> </span>
+				</button>
+			</div>
+		</form>
+		<script type="text/javascript">
+		//<![CDATA[
+			var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+		//]]>
+		</script>
+	</div>
+</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="footer-middle">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-3 col-md-3  col-sm-6">
+					<div class="content-block-footer">
+												<h2 class="footer-logo"><img alt="YRSHOP24" src="http://127.0.0.1/mg5/skin/frontend/sm-maxshop/default/images/cyan/logo-footer.png"><span style="display:none;">YRSHOP24</span></h2>
+						<p>We are committed towards manufacturing personalized user friendly phones. Our value added feature ensures the personality of the phone matches the taste of the customer.</p>					</div>
+				</div>
+				
+				<div class="col-lg-3 col-md-3  col-sm-6 account-block">
+					<div class="col-footer">
+						<div class="footer-title">
+							<h2>MY ACCOUNT</h2>
+						</div>
+						<div class="content-block-footer">
+							<ul>
+								<li><a href="#"><span class="icon-double-angle-right">&nbsp;</span>Sitemap</a></li>
+								<li><a href="#"><span class="icon-double-angle-right">&nbsp;</span>Privacy Policy</a></li>
+								<li><a href="#"><span class="icon-double-angle-right">&nbsp;</span>Your Account</a></li>
+								<li><a href="#"><span class="icon-double-angle-right">&nbsp;</span>Advanced Search</a></li>
+								<li><a href="#"><span class="icon-double-angle-right">&nbsp;</span>Contact Us</a></li>
+							</ul>
+						</div>					</div>
+				</div>
+				
+				<div class="col-lg-3 col-md-3  col-sm-6 infomation-block">
+					<div class="col-footer">
+						<div class="footer-title">
+							<h2>INFOMATION</h2>
+						</div>
+						<div class="content-block-footer">
+							<ul>
+								<li><a href="#"><span class="icon-double-angle-right">&nbsp;</span>My Account</a></li>
+								<li><a href="#"><span class="icon-double-angle-right">&nbsp;</span>Order History</a></li>
+								<li><a href="#"><span class="icon-double-angle-right">&nbsp;</span>Returns</a></li>
+								<li><a href="#"><span class="icon-double-angle-right">&nbsp;</span>Specials</a></li>
+								<li><a href="#"><span class="icon-double-angle-right">&nbsp;</span>Site Map</a></li>
+							</ul>
+						</div>					</div>
+				</div>
+				
+				<div class="col-lg-3 col-md-3  col-sm-6 contact-block">
+					<div class="col-footer">
+						<div class="footer-title">
+<h2>MY ACCOUNT</h2>
+</div>
+<div class="content-block-footer">
+<ul>
+<li><span class="sp-ic icon-home" style="font-size: 16px; position: relative; top: 1px;">&nbsp;</span>Surat, Gujrat India.</li>
+<li style="margin-top: -4px;"><span class="sp-ic icon-mobile-phone" style="font-size: 22px; position: relative; top: 4px;">&nbsp;</span>Telephone: <a title="Call:(+91) 9898762085" href="tel:+9898762085">(+91) 9898762085</a></li>
+<li><span class="sp-ic icon-envelope" style="font-size: 13px; position: relative;">&nbsp;</span>E-mail: <a title="support@yrshop.com" href="mailto:support@yrshop.com">support@yrshop.com</a></li>
+</ul>
+<ul class="payment-method">
+<li><a title="Payment Method" href="#"><img src="http://127.0.0.1/mg5/media/wysiwyg/payment/payment-1.png" alt="Payment" /></a></li>
+<li><a title="Payment Method" href="#"><img src="http://127.0.0.1/mg5/media/wysiwyg/payment/payment-2.png" alt="Payment" /></a></li>
+<li><a title="Payment Method" href="#"><img src="http://127.0.0.1/mg5/media/wysiwyg/payment/payment-3.png" alt="Payment" /></a></li>
+<li><a title="Payment Method" href="#"><img src="http://127.0.0.1/mg5/media/wysiwyg/payment/payment-4.png" alt="Payment" /></a></li>
+<li><a title="Payment Method" href="#"><img src="http://127.0.0.1/mg5/media/wysiwyg/payment/payment-5.png" alt="Payment" /></a></li>
+</ul>
+</div>					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="footer-bottom">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="copyright-footer">
+						YR Shop &copy; 2016
+. All Rights Reserved. Designed by
+<a title="Weblord  Infotech" target="_blank" href="http://www.weblordinfotech.com/">Weblord  Infotech</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>       
+
+
+	

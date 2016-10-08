@@ -1,0 +1,88 @@
+<div class="col-md-3 col-sm-6 store-info">
+<ul class="list-info">
+<li class="item-info main-info">
+<div class="info-content">
+<h2><a title="Main office" href="#">Main office</a></h2>
+<div class="des-info">Sed ut perspiciatis unde omnis 123456 Street Name, Los Angeles</div>
+</div>
+</li>
+<li class="item-info email-info">
+<div class="info-content">
+<h2>Email</h2>
+<div class="des-info"><a class="mailto" title="Send Email" href="mailto:Support1@shopname.com">Support1@shopname.com</a><br /> <a class="mailto" title="Send Email" href="mailto:Support2@shopname.com">Support2@shopname.com</a></div>
+</div>
+</li>
+<li class="item-info phone-info">
+<div class="info-content">
+<h2>Phone</h2>
+<div class="des-info"><a class="call-phone" title="Call: 0123-4567-8910" href="tel:0123-4567-8910">0123-4567-8910</a><br /> <a class="call-phone" title="Call: 0123-4567-8910" href="tel:0123-4567-8910">0123-4567-8910</a></div>
+</div>
+</li>
+</ul>
+</div>
+<div class="col-md-3 col-sm-6 store-info">
+<ul class="list-info">
+<li class="item-info main-info">
+<div class="info-content">
+<h2><a title="Branch 01" href="#">Branch 01</a></h2>
+<div class="des-info">Sed ut perspiciatis unde omnis 123456 Street Name, Los Angeles</div>
+</div>
+</li>
+<li class="item-info email-info">
+<div class="info-content">
+<h2>Email</h2>
+<div class="des-info"><a class="mailto" title="Send Email" href="mailto:Support1@shopname.com">Support1@shopname.com</a><br /> <a class="mailto" title="Send Email" href="mailto:Support2@shopname.com">Support2@shopname.com</a></div>
+</div>
+</li>
+<li class="item-info phone-info">
+<div class="info-content">
+<h2>Phone</h2>
+<div class="des-info"><a class="call-phone" title="Call: 0123-4567-8910" href="tel:0123-4567-8910">0123-4567-8910</a><br /> <a class="call-phone" title="Call: 0123-4567-8910" href="tel:0123-4567-8910">0123-4567-8910</a></div>
+</div>
+</li>
+</ul>
+</div>
+<div class="col-md-3 col-sm-6 store-info">
+<ul class="list-info">
+<li class="item-info main-info">
+<div class="info-content">
+<h2><a title="Branch 02" href="#">Branch 02</a></h2>
+<div class="des-info">Sed ut perspiciatis unde omnis 123456 Street Name, Los Angeles</div>
+</div>
+</li>
+<li class="item-info email-info">
+<div class="info-content">
+<h2>Email</h2>
+<div class="des-info"><a class="mailto" title="Send Email" href="mailto:Support1@shopname.com">Support1@shopname.com</a><br /> <a class="mailto" title="Send Email" href="mailto:Support2@shopname.com">Support2@shopname.com</a></div>
+</div>
+</li>
+<li class="item-info phone-info">
+<div class="info-content">
+<h2>Phone</h2>
+<div class="des-info"><a class="call-phone" title="Call: 0123-4567-8910" href="tel:0123-4567-8910">0123-4567-8910</a><br /> <a class="call-phone" title="Call: 0123-4567-8910" href="tel:0123-4567-8910">0123-4567-8910</a></div>
+</div>
+</li>
+</ul>
+</div>
+<div class="col-md-3 col-sm-6 store-info">
+<ul class="list-info">
+<li class="item-info main-info">
+<div class="info-content">
+<h2><a title="Branch 03" href="#">Branch 03</a></h2>
+<div class="des-info">Sed ut perspiciatis unde omnis 123456 Street Name, Los Angeles</div>
+</div>
+</li>
+<li class="item-info email-info">
+<div class="info-content">
+<h2>Email</h2>
+<div class="des-info"><a class="mailto" title="Send Email" href="mailto:Support1@shopname.com">Support1@shopname.com</a><br /> <a class="mailto" title="Send Email" href="mailto:Support2@shopname.com">Support2@shopname.com</a></div>
+</div>
+</li>
+<li class="item-info phone-info">
+<div class="info-content">
+<h2>Phone</h2>
+<div class="des-info"><a class="call-phone" title="Call: 0123-4567-8910" href="tel:0123-4567-8910">0123-4567-8910</a><br /> <a class="call-phone" title="Call: 0123-4567-8910" href="tel:0123-4567-8910">0123-4567-8910</a></div>
+</div>
+</li>
+</ul>
+</div>

@@ -1,0 +1,30 @@
+<div class="label-offer-slider">
+This Week
+</div>
+<div class="offer-wrapper">
+<div class="offer-header">
+<ul id="offer-slider">
+<li class="item"><a title="Offer" href="#">Pellentesque elementum aliquam libero sed tincidunt nullam!</a></li>
+<li class="item"><a title="Offer" href="#">Pellentesque elementum aliquam libero sed tincidunt nullam!</a></li>
+<li class="item"><a title="Offer" href="#">Pellentesque elementum aliquam libero sed tincidunt nullam!</a></li>
+<li class="item"><a title="Offer" href="#">Pellentesque elementum aliquam libero sed tincidunt nullam!</a></li>
+<li class="item"><a title="Offer" href="#">Pellentesque elementum aliquam libero sed tincidunt nullam!</a></li>
+</ul>
+<script type="text/javascript">// <![CDATA[
+									
+
+								jQuery(document).ready(function($) {
+								 
+									$("#offer-slider").owlCarousel({
+										autoPlay: true,
+										navigation : false,
+										pagination: false,
+										slideSpeed : 300,
+										paginationSpeed : 400,
+										singleItem:true
+									});
+								 
+								});
+// ]]></script>
+</div>
+</div>

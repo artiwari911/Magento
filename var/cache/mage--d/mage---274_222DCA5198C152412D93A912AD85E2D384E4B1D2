@@ -1,0 +1,80 @@
+<div class="block client-say">
+	<div class="block-title">
+		<strong>
+			<span>Testimonial</span>
+		</strong>
+	</div>
+	
+	<div class="block-content">
+		<div class="client-say-slider">
+			<div class="item item-client-say">
+				<div class="client-comment">
+					"Duis aliquam, magna ac fermentum are finibus, orci viverra risus, non into varius tellus tortor sed eros. Sed pharetra ante sit amet suscipit ornare"
+				</div>
+				<div class="client-say-info">
+					<div class="image-client">
+						<a href="#" title="Jack Andrson"><img src="http://127.0.0.1/mg5/media/wysiwyg/image-client/img-client-1.png" alt="Image Client" /></a>
+					</div>
+					
+					<div class="name-client">
+						<h2><a href="#" title="Jack Andrson">Jack Andrson</a></h2>
+						<p>Web designer</p>
+					</div>
+				</div>
+			</div>
+			
+			<div class="item item-client-say">
+				<div class="client-comment">
+					"Duis aliquam, magna ac fermentum are finibus, orci viverra risus, non into varius tellus tortor sed eros. Sed pharetra ante sit amet suscipit ornare"
+				</div>
+				<div class="client-say-info">
+					<div class="image-client">
+						<a href="#" title="Jack Andrson"><img src="http://127.0.0.1/mg5/media/wysiwyg/image-client/img-client-1.png" alt="Image Client" /></a>
+					</div>
+					
+					<div class="name-client">
+						<h2><a href="#" title="Jack Andrson">Jack Andrson</a></h2>
+						<p>Web designer</p>
+					</div>
+				</div>
+			</div>
+			
+			<div class="item item-client-say">
+				<div class="client-comment">
+					"Duis aliquam, magna ac fermentum are finibus, orci viverra risus, non into varius tellus tortor sed eros. Sed pharetra ante sit amet suscipit ornare"
+				</div>
+				<div class="client-say-info">
+					<div class="image-client">
+						<a href="#" title="Jack Andrson"><img src="http://127.0.0.1/mg5/media/wysiwyg/image-client/img-client-1.png" alt="Image Client" /></a>
+					</div>
+					
+					<div class="name-client">
+						<h2><a href="#" title="Jack Andrson">Jack Andrson</a></h2>
+						<p>Web designer</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<script>
+		jQuery(document).ready(function($) {
+			var owl_client = $(".client-say-slider");
+			owl_client.owlCarousel({
+				itemsCustom : [
+				[0, 1],
+				[480, 1],
+				[768, 1],
+				[992, 1],
+				[1200, 1]
+				], 
+
+				slideSpeed : 300,
+				stopOnHover: true,
+				paginationSpeed : 400,
+				autoPlay:false,
+				pagination: true,
+			});	  
+		});	
+	</script>
+</div>
